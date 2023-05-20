@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fco-hortal
 - 👀 I’m interested in Data Science and Entrepreneurship
-- 🌱 I’m currently learning Data Mining, Finance and Marketing
+- 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me francisco.hortal@uc.cl
 
 
